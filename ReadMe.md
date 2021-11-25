@@ -9,4 +9,4 @@ Please try the [Live Demo](https://ken-yokohama.github.io/react-app-test/) of th
 ![Kanye Resting](https://img-9gag-fun.9cache.com/photo/amLOq6V_460s.jpg)
 
 > I wish I had a friend like me
-> - Kanye West
+> \- Kanye West\
