@@ -7,3 +7,6 @@ To create this application, you can query [this page](https://api.kanye.rest/) t
 Please try the [Live Demo](https://ken-yokohama.github.io/react-app-test/) of this application.
 
 ![Kanye Resting](https://img-9gag-fun.9cache.com/photo/amLOq6V_460s.jpg)
+
+> I wish I had a friend like me
+- Kanye West
