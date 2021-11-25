@@ -10,4 +10,4 @@ Please try the [Live Demo](https://ken-yokohama.github.io/react-app-test/) of th
 
 > I wish I had a friend like me
 
-> -/ Kanye West
+> - Kanye West
